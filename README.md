@@ -1,14 +1,22 @@
-# Projeto-final-ada
-
 ## Descrição
 
 Este repositório é um fork do [projeto final github](https://github.com/jltdsjrdev/projeto-final-ada), um exemplo criado pela professora Thayse como parte do curso de DevOps da Ada Tech. Este projeto serve como uma base para aprender e praticar conceitos de Git e GitHub. O código original está sendo gradualmente aprimorado e expandido para incluir novas funcionalidades e melhorias.
 
+## Escopo do Projeto
+**Projeto final**
 
-## Pré-requisitos
+- Fazer um fork do repositório: https://github.com/ThayseAda/projeto-final-ada/
+- Ter um repositório público;
+- Pelo menos 2 branchs criadas;
+- Subir melhorias para a aplicação usando os padrões de commit;
+- Ter uma documentação do uso da aplicação;
+- Ter informado no repositório sobre a licença do projeto;
+- Ter uma pasta sobre como contribuir com o projeto, ensinando os tipos de commit que vão ser aceitos, como abrir PR, etc;
+- É necessário ter um histórico de commits, construção do código, então faça todo o desenvolvimento no projeto que será entregue.
 
-- Python 3.x
-- Pip (gerenciador de pacotes do Python)
+**Extra:**
+
+- Entregar um GitHub Actions fazendo deploy dessa API em uma EC2, com testes. São válidos testes de segurança, de código, de deploy com sucesso.
 
 
 

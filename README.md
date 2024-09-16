@@ -74,3 +74,18 @@ Obrigado a todos que já contribuíram para este projeto!
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](./LICENSE).
+
+
+
+
+![infoPet](https://github.com/user-attachments/assets/99240c8a-8905-41d6-8e91-f095fa7f8416)
+
+<br> 
+<br>
+
+
+
+![info-pets](https://github.com/user-attachments/assets/a3ec5f67-523f-48fa-97b2-9920e93b6ff6)
+
+
+

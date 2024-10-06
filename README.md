@@ -75,6 +75,8 @@ Obrigado a todos que já contribuíram para este projeto!
 
 Este projeto está licenciado sob a [MIT License](./LICENSE).
 
+<br>
+
 
 
 
